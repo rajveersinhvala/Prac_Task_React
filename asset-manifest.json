@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prac_Task_React/static/css/main.c2cab247.css",
+    "main.js": "/Prac_Task_React/static/js/main.21d6cc55.js",
+    "index.html": "/Prac_Task_React/index.html",
+    "main.c2cab247.css.map": "/Prac_Task_React/static/css/main.c2cab247.css.map",
+    "main.21d6cc55.js.map": "/Prac_Task_React/static/js/main.21d6cc55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.21d6cc55.js"
+  ]
+}
